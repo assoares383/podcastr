@@ -38,6 +38,10 @@
             &:hover {
                 filter: brightness(0.9);
             }
+
+            &:disabled {
+                opacity: .5;
+            }
         }
     }
 
